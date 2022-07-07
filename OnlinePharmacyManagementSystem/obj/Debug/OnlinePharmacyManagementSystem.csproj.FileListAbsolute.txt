@@ -1,0 +1,6 @@
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\bin\OnlinePharmacyManagementSystem.dll.config
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\bin\OnlinePharmacyManagementSystem.dll
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\bin\OnlinePharmacyManagementSystem.pdb
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\obj\Debug\OnlinePharmacyManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\obj\Debug\OnlinePharmacyManagementSystem.dll
+C:\Users\Programming LAB PSTU\documents\visual studio 2013\Projects\OnlinePharmacyManagementSystem\OnlinePharmacyManagementSystem\obj\Debug\OnlinePharmacyManagementSystem.pdb
